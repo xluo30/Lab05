@@ -1,0 +1,49 @@
+img{
+  width:100px;
+  padding: 40px;
+  height: 90px;
+}
+table{
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  height:10px;
+}
+body{
+ background:url("Image/background.jpg");
+  color:silver;
+  font-family: 'Roboto', Sans-Serif;
+  
+  background-attachment:fixed;"
+}
+h1{
+ font-family: 'Tangerine', cursive;
+  color:silver;
+  margin-top:70px;
+  text-align: center;
+  padding:2px;
+  margin-bottom: 40px;
+  font-size: 60px;
+}
+title{
+  background-color:silver;
+  
+  color: silver;
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 20px;
+  font-weight: bolder;
+ 
+}
+planet{
+  background-color: black;
+  color: white;
+  border:100px;
+}
+
+
+th{
+  padding-left: 10px;
+  padding-right: 10px;
+  color: silver;
+}
